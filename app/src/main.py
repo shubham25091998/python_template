@@ -11,7 +11,7 @@
 # under the License.
 #
 # SPDX-License-Identifier: Apache-2.0
-#
+##
 
 """A sample skeleton vehicle app."""
 
